@@ -1,0 +1,4 @@
+audiodata
+Generator/simplesynth/__pycache__
+*.wav
+Train/model
