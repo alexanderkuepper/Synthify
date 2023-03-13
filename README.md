@@ -4,4 +4,4 @@ Im Generator Ordner befindet sich der Skript zum Generiren der Synthesizer-Sampl
 
 Im Train Ordner befinden sich die Dateien zum Tranieren des Netzwerkes. Dort befinden sich Jupyter Notebooks um einzelne Parameter zu identifizieren. Die Dateien haben jeweils den gleichen Namen, wie der Paramter. Die Datei `Model.ipynb` fasst alle Parameter zusammen. Dieser Skirpt muss vor dem Ausführen der `predrict.ipynb` Datei ausgeführt werden. 
 
-Um die Parameter vorherzusagen, muss der Script `test.ipynb` im Predict Ordner ausgeführt werden.
+Um die Parameter vorherzusagen, muss der Script `predict.ipynb` im Predict Ordner ausgeführt werden.
